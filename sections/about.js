@@ -58,7 +58,9 @@ import {
             </Text>
             <Heading>What we do</Heading>
             <Text color={'gray.500'} fontSize={'lg'}>
-                Our office in the states has a dual purpose. Firstly, to give International traders access to thousands of financial markets, and secondly, to provide an operations hub that provides services to the wider Mango sweep group.
+            MangoSweep  is a
+            Privately ran decentralized Medium  built on Binance Smart Chain, a fast and inexpensive alternative to Ethereum.
+            Much like the celebrated Uniswap DeFi AMM protocol running on Ethereum, MangoSweep enables users to swap between cryptocurrency assets by tapping into user-generated liquidity pools.
             </Text>
             <Stack
               spacing={4}
@@ -68,10 +70,10 @@ import {
                 />
               }>
               <Text color={'gray.500'} fontSize={'lg'}>
-                  Based in the States and staffed by several countries, over the last few years we have successfully grown to meet the needs of International clients, receiving numerous awards in recognition.
+              To create said liquidity pools, Mangosweep offers a plethora of DeFi farming opportunities for liquidity providers. The liquidity grab has so far worked like a charm — well over $1 billion in total value locked (TVL) has migrated to Mangosweep since it opened its doors.
                </Text>
               <Text color={'gray.500'} fontSize={'lg'}>
-                Our board and senior management in America consist of largely south Americans making us a truly international operation. As one of the biggest employers in the online broking category, we are proud to be playing a leading role in the growing financial services industry in the World.
+              However, unlike Uniswap and PancakeSwap, Mangosweep  rewards those who stake its native through their private conglometare PNC wealth management. When you stake through PNC MangoSweep, you are entitled to be the first adopters of the virtual reality scene , get in on ICOs and private sales on tokens before they blow up
             </Text>
             </Stack>
           </Stack>

@@ -97,14 +97,14 @@ export default function Testimonials() {
             <TestimonialContent >
               <TestimonialHeading>Satisfied</TestimonialHeading>
               <TestimonialText>
-               Took a little while to have my withdrawal approved but other than that, I'm so happy I actually tried you guys out!
+              I work as a Soft ware Engineer in IBM, I also live in New York and everyone that has lived in New York can vouch how the cost of living is pretty high. MangoSweep services have aided me learn discipline and boosted my financial literacy especially in taxes and other privileges because as I invested, I am being advised and the consultancy advisors are top tier
               </TestimonialText>
             </TestimonialContent>
             <TestimonialAvatar
               src={
-                'https://images.unsplash.com/photo-1586297135537-94bc9ba060aa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80'
+                'https://res.cloudinary.com/parallaxcloudinary/image/upload/v1650059629/face-paint_syhwsr.jpg'
               }
-              name={'Maria Ann'}
+              name={'RYAN BELL'}
               title={'Investor'}
             />
           </Testimonial>
@@ -112,14 +112,14 @@ export default function Testimonials() {
             <TestimonialContent>
               <TestimonialHeading>Awesome Support!</TestimonialHeading>
               <TestimonialText>
-              They are the best and expertly trained team members who take the extra step and go the extra mile, all to fulfill their promise to deliver innovative and dynamic solutions to their investors to fit the needs of a rapidly changing global environment.
+              It wasn’t so long after my husband Chris for almost 22 years got divorced and I have to say it left me devastated. The emotional distress weighed me down but I knew I had to get back on feet whilst trying to keep in contact and provide for my children because Chris was a dead beat who missed on owning up to supporting our 3 daughters, Sarah, Kate and Emily. It was on winter in 2018 when Bitcoin crashed, I had been advised to take upbPnc’s subsidiary MangoS weep to aid manage my assets as I have a trust fund of over $120,000 for my kids future and colleges. I have to say the growth has been incredible, the dividend and annual returns on my portfolio is one thing that pushed me to be becoming a better mum unbeknownst to me.  Thank you Pnc MangoSweep
               </TestimonialText>
             </TestimonialContent>
             <TestimonialAvatar
               src={
-                'https://images.unsplash.com/photo-1586297135537-94bc9ba060aa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80'
+                'https://res.cloudinary.com/parallaxcloudinary/image/upload/v1650059630/whitelady_krz4rt.jpg'
               }
-              name={'Alexi Khamer'}
+              name={'BETTY DENSMORE'}
               title={'Investor'}
             />
           </Testimonial>
@@ -127,14 +127,14 @@ export default function Testimonials() {
             <TestimonialContent>
               <TestimonialHeading>Pleasant experience</TestimonialHeading>
               <TestimonialText>
-              I am glad to say I have earned today. They are truly top-notch and commited to the task. I am grateful to your efforts guys. Thank you!
+              Coming from a family in Mumbai with parents that believe so much in the Analog Stone Age way of living and making money. I'm glad Mangosweep could aid me understand at the brink of financial break down how NFTs are profitable and I can make good acquisition of digital land on which I host events, yield , stake and carry out our other profitable practices.
               </TestimonialText>
             </TestimonialContent>
             <TestimonialAvatar
               src={
-                'https://images.unsplash.com/photo-1586297135537-94bc9ba060aa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=100&q=80'
+                'https://res.cloudinary.com/parallaxcloudinary/image/upload/v1650059629/nft_ukglv7.jpg'
               }
-              name={'Jane Cooper'}
+              name={'SIVA SANKALP'}
               title={'Investor'}
             />
           </Testimonial>

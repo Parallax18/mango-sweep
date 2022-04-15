@@ -3,6 +3,7 @@ import React from 'react'
 import NavBar from '../components/Nav'
 import About from '../sections/about'
 import Broker from '../sections/broker'
+import Faq from '../sections/faq'
 import Footer from '../sections/footer'
 import Home from '../sections/home'
 import Plans from '../sections/packages'
@@ -19,6 +20,7 @@ export default function index() {
         <Plans />
         <Broker />
         <Statistics />
+        <Faq />
         <Footer />
     </>
   )
